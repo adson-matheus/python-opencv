@@ -1,7 +1,10 @@
-# python-ppencv
+# python-opencv
 Detecção de objetos, pessoas, carros usando Open CV.
 
 Feito através de tutoriais e entendimento adquirido de acordo com a utilização da biblioteca.
+
+<h3>Exemplo do persons_detector:</h3>
+<img src="https://github.com/adson62/python-opencv/blob/main/persons_detector/telaExample.png" title='Exemplo de Detecção'>
 
 <h3>Links dos tutoriais:</h3>
 <a href="https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html">Documentação Oficial do OpenCV</a>.<br>
